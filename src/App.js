@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import {Queue} from "./queue/Queue";
+import {Service} from "./services/Service";
 
 class App extends Component {
   render() {
@@ -19,6 +21,8 @@ class App extends Component {
           >
             Learn React
           </a>
+          <Queue />
+          <Service />
         </header>
       </div>
     );
