@@ -1,4 +1,7 @@
 import React, { Fragment } from 'react';
+import hello from 'hello-world';
+
+hello();
 
 export const Queue = props =>
   <Fragment>
@@ -6,5 +9,6 @@ export const Queue = props =>
     <ul>
       <li>Work</li>
       <li>Approval</li>
+      <li>Work Order</li>
     </ul>
   </Fragment>;
