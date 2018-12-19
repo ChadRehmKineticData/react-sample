@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "goodbye-world": "https://github.com/skoestler/hello-world#master",
     "hello-world": "https://github.com/skoestler/hello-world#mars",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",

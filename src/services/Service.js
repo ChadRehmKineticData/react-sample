@@ -1,4 +1,7 @@
 import React, { Fragment } from 'react';
+import hello from 'goodbye-world';
+
+hello();
 
 export const Service = props =>
   <Fragment>

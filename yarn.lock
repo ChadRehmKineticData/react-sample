@@ -3520,6 +3520,10 @@ globby@^6.1.0:
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
 
+"goodbye-world@https://github.com/skoestler/hello-world#master":
+  version "1.0.0"
+  resolved "https://github.com/skoestler/hello-world#f8150e66b059c042b36bf8f84561b4809bdf245b"
+
 graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6:
   version "4.1.11"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.11.tgz#0e8bdfe4d1ddb8854d64e04ea7c00e2a026e5658"
